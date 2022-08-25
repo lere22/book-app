@@ -5,7 +5,11 @@ A new Flutter project.
 This project for "Belajar Membuat Aplikasi Flutter Pemula" course.
 
 ## Before Run Project
-- flutter pub get
+Do this on terminal or command line windows:
+
+```flutter
+flutter pub get
+```
 
 ## Getting Started
 
