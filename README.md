@@ -4,6 +4,9 @@ A new Flutter project.
 
 This project for "Belajar Membuat Aplikasi Flutter Pemula" course.
 
+## Before Run Project
+- flutter pub get
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
